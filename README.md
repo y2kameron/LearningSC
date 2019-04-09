@@ -11,7 +11,7 @@
  - Bussing
 - IO Routing
 - Node Oder
-- groups
-3. Get Workflow
+- Groups
+3. Git Workflow
   
  
