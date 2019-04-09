@@ -15,3 +15,5 @@
 3. Git Workflow
 - Remote vs Local Repository
 - diffrence between pusiing and pulling
+- checkout history
+- creating a new branch
