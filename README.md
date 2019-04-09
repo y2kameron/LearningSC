@@ -13,6 +13,5 @@
 - Node Oder
 - Groups
 3. Git Workflow
+- Remote vs Local Repository
 - diffrence between pusiing and pulling
-  
- 
