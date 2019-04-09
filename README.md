@@ -13,5 +13,6 @@
 - Node Oder
 - Groups
 3. Git Workflow
+- diffrence between pusiing and pulling
   
  
